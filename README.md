@@ -1,6 +1,6 @@
 # LFA
 
-EN: Project within the laboratory of Formal Languages and Automata theory, year 1, semester 2. The project was made in Python.
+   Project within the laboratory of Formal Languages and Automata theory, year 1, semester 2. The project was made in Python.
 
 Exercise 1. Implement a library/program in a programming language of your
 choosing to load and validate the following input file:
